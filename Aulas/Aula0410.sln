@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaiorNumero", "MaiorNumero\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula2310", "Aula2310\Aula2310.vcxproj", "{C86447D3-0DB8-4D9A-B3B8-695E89BE94F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula2510_Repeticoes", "Aula2510_Repeticoes\Aula2510_Repeticoes.vcxproj", "{B749D5C0-D89C-4626-B71B-CB31E1DB190A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{C86447D3-0DB8-4D9A-B3B8-695E89BE94F1}.Release|x64.Build.0 = Release|x64
 		{C86447D3-0DB8-4D9A-B3B8-695E89BE94F1}.Release|x86.ActiveCfg = Release|Win32
 		{C86447D3-0DB8-4D9A-B3B8-695E89BE94F1}.Release|x86.Build.0 = Release|Win32
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Debug|x64.ActiveCfg = Debug|x64
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Debug|x64.Build.0 = Debug|x64
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Debug|x86.Build.0 = Debug|Win32
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Release|x64.ActiveCfg = Release|x64
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Release|x64.Build.0 = Release|x64
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Release|x86.ActiveCfg = Release|Win32
+		{B749D5C0-D89C-4626-B71B-CB31E1DB190A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
